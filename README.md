@@ -27,7 +27,7 @@ The exam is broken down into the following categories, which we will cover in th
 | II. | Investment Vehicle Characteristics  | 32 | 25% |
 | III. | Client Investment Recommendations and Strategies | 39 |  30% |
 | IV. | Laws, Regulations, Ethics, and Fiduciary Roles  | 39 | 30% |
-| **Total** |  | **120** | **100%** |
+| **Total** |  | **130** | **100%** |
 
 
 **I. Introduction to Series 65 Exam**</br>
