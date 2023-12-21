@@ -30,25 +30,25 @@ The exam is broken down into the following categories, which we will cover in th
 | **Total** |  | **120** | **100%** |
 
 
-**I. Introduction to Series 65 Exam**
-&nbsp; A. &nbsp; &nbsp; Purpose and Structure of Series 65.
-&nbsp; B. &nbsp; &nbsp; Responsibilities and Duties of Investment Advisers.
-&nbsp; C. &nbsp; &nbsp; Relationship between Federal and State Securities Laws.
+**I. Introduction to Series 65 Exam**</br>
+&nbsp; A. &nbsp; &nbsp; Purpose and Structure of Series 65.</br>
+&nbsp; B. &nbsp; &nbsp; Responsibilities and Duties of Investment Advisers.</br>
+&nbsp; C. &nbsp; &nbsp; Relationship between Federal and State Securities Laws.</br>
 
-**II. Regulation of Investment Advisers**
-&nbsp; A. &nbsp; &nbsp; Investment Advisers Act of 1940.
-&nbsp; B. &nbsp; &nbsp; Registration and Regulation of Investment Advisers.
-&nbsp; C. &nbsp; &nbsp; Fiduciary Duties and Ethical Obligations.
+**II. Regulation of Investment Advisers**</br>
+&nbsp; A. &nbsp; &nbsp; Investment Advisers Act of 1940.</br>
+&nbsp; B. &nbsp; &nbsp; Registration and Regulation of Investment Advisers.</br>
+&nbsp; C. &nbsp; &nbsp; Fiduciary Duties and Ethical Obligations.</br>
 
-**III. Investment Adviser Representative Requirements**
-&nbsp; A. &nbsp; &nbsp; Qualifications and Registration of Investment Adviser Representatives.
-&nbsp; B. &nbsp; &nbsp; Prohibited Practices and Ethical Obligations.
-&nbsp; C. &nbsp; &nbsp; Continuing Education and Reporting Requirements.
+**III. Investment Adviser Representative Requirements**</br>
+&nbsp; A. &nbsp; &nbsp; Qualifications and Registration of Investment Adviser Representatives.</br>
+&nbsp; B. &nbsp; &nbsp; Prohibited Practices and Ethical Obligations.</br>
+&nbsp; C. &nbsp; &nbsp; Continuing Education and Reporting Requirements.</br>
 
-**IV. Economic Factors and Business Information
-&nbsp; A. &nbsp; &nbsp; Economic Indicators and Factors Affecting Markets.
-&nbsp; B. &nbsp; &nbsp; Business Cycles and Market Trends.
-&nbsp; C. &nbsp; &nbsp;   Analysis of Financial Statements.
+**IV. Economic Factors and Business Information**</br>
+&nbsp; A. &nbsp; &nbsp; Economic Indicators and Factors Affecting Markets.</br>
+&nbsp; B. &nbsp; &nbsp; Business Cycles and Market Trends.</br>
+&nbsp; C. &nbsp; &nbsp;   Analysis of Financial Statements.</br>
 
 **V. Investment Vehicle Characteristics**</br>
 &nbsp; A. &nbsp; &nbsp; Characteristics of Various Investment Vehicles.</br>
