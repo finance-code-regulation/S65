@@ -60,27 +60,27 @@ The exam is broken down into the following categories, which we will cover in th
 &nbsp; B. &nbsp; &nbsp; Types of Investment Risk.</br>
 &nbsp; C. &nbsp; &nbsp; Investment Objectives and Strategies.</br>
 
-**VI. Client Investment Recommendations and Strategies**
+**VI. Client Investment Recommendations and Strategies**</br>
 &nbsp; A. &nbsp; &nbsp; Suitability of Investments.</br>
 &nbsp; B. &nbsp; &nbsp; Asset Allocation and Portfolio Management.</br>
 &nbsp; C. &nbsp; &nbsp; Ethical Considerations in Investment Recommendations.</br>
 
-**VII. Retirement Planning and Regulations**
+**VII. Retirement Planning and Regulations**</br>
 &nbsp; A. &nbsp; &nbsp; Types of Retirement Plans.</br>
 &nbsp; B. &nbsp; &nbsp; ERISA and Regulation of Pension Funds.</br>
 &nbsp; C. &nbsp; &nbsp; Tax Considerations in Retirement Planning.</br>
 
-**VIII. Securities Market Structure and Regulations**
+**VIII. Securities Market Structure and Regulations**</br>
 &nbsp; A. &nbsp; &nbsp; Primary and Secondary Markets.</br>
 &nbsp; B. &nbsp; &nbsp; Market Indices and Market Efficiency.</br>
 &nbsp; C. &nbsp; &nbsp; Securities Exchange Act of 1934.</br>
 
-**IX. Regulatory and Ethical Guidelines**
+**IX. Regulatory and Ethical Guidelines**</br>
 &nbsp; A. &nbsp; &nbsp; Anti-Fraud Provisions.</br>
 &nbsp; B. &nbsp; &nbsp; Insider Trading and Manipulative Practices.</br>
 &nbsp; C. &nbsp; &nbsp; Ethical Guidelines for Investment Advisers.</br>
 
-**X. Examination Preparation Strategies**
+**X. Examination Preparation Strategies**</br>
 &nbsp; A. &nbsp; &nbsp; Study Materials and Resources.</br>
 &nbsp; B. &nbsp; &nbsp; Sample Questions and Practice Exams.</br>
 &nbsp; C. &nbsp; &nbsp; Test-Taking Strategies and Time Management.</br>
